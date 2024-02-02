@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **panwaraditya366@gmail.com**
 
-- 📄 Know about my experiences [https://harlequin-olivie-85.tiiny.site/](https://harlequin-olivie-85.tiiny.site/)
+- 📄 Know about my experiences [https://blush-estrellita-2.tiiny.site](https://blush-estrellita-2.tiiny.site)
 
 - ⚡ Fun fact **Humour + Coding + Football**
 
