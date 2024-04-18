@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MultiLingual Named Entity Recognition**
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
+- 🌱 I’m currently learning **Deep Learning, NLP and LLM's**
 
 - 💬 Ask me about **ML, Deep Learning, NLP, MERN**
 
