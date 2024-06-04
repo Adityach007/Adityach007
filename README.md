@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityach007&label=Profile%20views&color=0e75b6&style=flat" alt="adityach007" /> </p>
 
-- 🔭 I’m currently working on **MultiLingual Named Entity Recognition**
+- 🔭 I’m currently working on **LLM and RAG**
 
 - 🌱 I’m currently learning **Deep Learning, NLP and LLM's**
 
