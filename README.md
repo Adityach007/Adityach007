@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **panwaraditya366@gmail.com**
 
-- 📄 Know about my experiences [https://blush-estrellita-2.tiiny.site](https://blush-estrellita-2.tiiny.site)
+- 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1RL5FzLL1sOWLWb9BH6LIAIbNQLI4od9w/view?usp=sharing)
 
 - ⚡ Fun fact **Humour + Coding + Football**
 
