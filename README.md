@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **panwaraditya366@gmail.com**
 
-- 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1RL5FzLL1sOWLWb9BH6LIAIbNQLI4od9w/view?usp=sharing)
+- 📄 Know about my experiences [Resume ](https://drive.google.com/drive/u/0/home)
 
 - ⚡ Fun fact **Humour + Coding + Football**
 
